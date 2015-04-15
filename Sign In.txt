@@ -1,0 +1,27 @@
+<html>
+  <body style="background-color:lightgrey">
+
+<table style="width:25%">
+  <tr>
+    <td><a href="file:///C:/Users/dell/Documents/my%20website/Home.html">  Home  </a></td>
+    <td><a href="file:///C:/Users/dell/Documents/my%20website/Sign%20Up.html">Sign Up</a></td>
+    <td><a href="file:///C:/Users/dell/Documents/my%20website/Sign%20In.html">Sign In </a></td>
+  </tr>
+</table> 
+
+<form action="action_page.php">
+<br><br>
+
+E-mail :<br>
+<input type="text" name="E-mail" value=" ">
+<br><br>
+
+Password:<br>
+<input type="text" name="Password" value=" ">
+<br><br>
+
+<input type="submit" value="Submit">
+</form> 
+
+  </body>
+  </html>

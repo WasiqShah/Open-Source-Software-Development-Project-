@@ -1,0 +1,117 @@
+
+  <html>
+  <body style="background-color:lightgrey">
+  
+  <style type="text/css">
+        
+        a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
+        a:hover { border-bottom-style: solid; color: black; }
+   </style>
+
+<table>
+  
+  <tr>
+    <td> <a href="file:///C:/Users/dell/Documents/my%20website/Home.html">  Home  </a> </td>
+    <td> <a href="">  Sign Up  </a> </td>
+    <td> <a href="">  Sign In  </a> </td>
+  </tr>
+
+</table>
+
+
+  <h1>Tips For Choosing Your Majour</h1>
+
+
+ <table>
+  
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/Introduction.html">Introduction</a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/1.html">Why do I want this major? </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/2.html">Do I know enough about this major? </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/3.html">What are the requirements for this major? </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/4.html">Is my University/Institute strong in this major? </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/5.html">What are the career opportunities for this major? </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/6.html">Is this the right–and only–major for my career path?  </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/7.html">Have I talked to someone in this major?  </a></li></td>
+
+<td>
+<p style="font-size:120%">
+
+No one should commit to a major before talking to a live human being who has actually taken this major or a professor who's actually taught in it Always seek advice from advanced undergraduate and or a professor or Career Service Department—what's in store for you if you sign on to that major. You want to know the good, the bad, and the ugly.
+<br><br>
+
+</p>
+</td>
+
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/8.html">Am I good at this major? </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/9.html"> Do I want to pick a traditional major at all? </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="file:///C:/Users/dell/Documents/my%20website/10.html"> Is it the right time to declare a major?  </a></li></td>
+  </tr>
+
+  </table>
+
+
+
+  <h3>Some Important Links</h3>
+
+  <table>
+  
+   <tr>
+    <td><li><a href=" http://www.hec.gov.pk/OurInstitutes/Pages/Default.aspx "> List of Universities recognized by Higher Education Commision (HEC), Pakistan </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href=" http://www.nceac.org/UniversitiesInformation.aspx"> National Computing Education Accreditation Council (NCEAC) </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="http://www.pec.org.pk/schedule_first.aspx "> Pakistan Engineering Council (PEC) </a></li></td>
+  </tr>
+
+  <tr>
+    <td><li><a href="http://www.ibcc.edu.pk/ "> Inter Board Commity of Chairman(IBCC) </a></li></td>
+  </tr>
+
+
+  <tr>
+    <td><li><a href="http://nbeac.org.pk/index.php/component/content/article/2-uncategorised/52-accredited-programs-by-name ">National Bussiness Education Accreditation Council  (NBEAC) </a></li></td>
+  </tr>
+
+  </table>
+
+<p><br></p>
+
+ </body>
+ </html>
+
+
